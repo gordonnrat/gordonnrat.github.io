@@ -18,6 +18,7 @@ html, body{
 }
 
 h1{
+    margin: 25px;
     color: var(--primary-color);
 }
 
