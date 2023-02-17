@@ -7,7 +7,17 @@
 }
 
 img{
-    width: 100%; margin-bottom: -4px; 
+    margin-bottom: -4px;
+}
+
+.imgcenter{
+    display: block;
+    margin: auto;
+}
+
+.centertext{
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 html, body{ 
